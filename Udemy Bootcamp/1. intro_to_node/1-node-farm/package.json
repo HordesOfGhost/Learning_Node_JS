@@ -1,0 +1,17 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "htmlTemplating.js",
+  "scripts": {
+    "start": "nodemon htmlTemplating.js"
+  },
+  "author": "Bibek Thapa",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
